@@ -1,0 +1,9 @@
+data/app/com.opera.branding.news
+data/app/com.opera.app.news
+data/app/cn.wps.moffice_eng
+data/app/com.lazada.android
+data/app/com.qidian.Int.reader
+data/app/id.co.babe
+data/app/com.jakarta.baca.lite
+data/app/com.msd.JTClient
+data/app/com.realmecomm.app

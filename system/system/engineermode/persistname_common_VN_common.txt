@@ -1,0 +1,5 @@
+com.lazada.android
+com.xb.topnews
+com.zing.zalo
+com.zing.mp3
+com.epi

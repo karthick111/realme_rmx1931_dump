@@ -1,0 +1,21 @@
+<filter-conf>
+    <version>2019052215</version>
+    <isOpen>1</isOpen>
+    <filter-name>sys_high_temp_protect</filter-name>
+    <HighTemperatureProtectSwitch>true</HighTemperatureProtectSwitch> 
+    <HighTemperatureShutdownSwitch>true</HighTemperatureShutdownSwitch>
+    <HighTemperatureFirstStepSwitch>true</HighTemperatureFirstStepSwitch>
+    <CountBatteryChangedForFosUpdateTime>30</CountBatteryChangedForFosUpdateTime> 
+    <HighTemperatureShutdownUpdateTime>15</HighTemperatureShutdownUpdateTime>
+    <HighTemperatureProtectFirstStepIn>480</HighTemperatureProtectFirstStepIn>
+    <HighTemperatureProtectFirstStepOut>460</HighTemperatureProtectFirstStepOut>
+    <HighTemperatureProtectThresholdIn>510</HighTemperatureProtectThresholdIn>
+    <HighTemperatureProtectThresholdOut>490</HighTemperatureProtectThresholdOut>
+    <HighTemperatureProtectShutDown>750</HighTemperatureProtectShutDown>
+    <MediumTemperatureProtectThreshold>10000</MediumTemperatureProtectThreshold>
+    <camera_temperature_limit>430</camera_temperature_limit>
+    <camera_temperature_charge>430</camera_temperature_charge>
+    <camera_temperature_limit_video_record_switch>true</camera_temperature_limit_video_record_switch>
+    <camera_temperature_limit_disable_video_record>450</camera_temperature_limit_disable_video_record>
+    <camera_temperature_limit_enable_video_record>430</camera_temperature_limit_enable_video_record>
+</filter-conf>

@@ -1,0 +1,3 @@
+qiyioemkey.ini
+preinstall-oppo.txt
+qdtraditional_preinstall.txt
