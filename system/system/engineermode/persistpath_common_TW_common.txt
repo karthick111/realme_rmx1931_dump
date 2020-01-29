@@ -1,0 +1,3 @@
+data/app/com.qidian.QDReader.traditional
+data/app/com.qiyi.video
+data/app/ctrip.english
